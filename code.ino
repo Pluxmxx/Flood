@@ -1,9 +1,9 @@
 #include <WiFi.h>
 #include <TridentTD_LineNotify.h>
 
-#define SSID "Lets dance"
-#define PASSWORD "sakonnakorn"
-#define LINE_TOKEN "DuqqCTwqDbrVxhx1xtAwQMoGOZNH7QU3Yec0EOJgVWp"
+#define SSID "Your wifi name"
+#define PASSWORD "you wifi password"
+#define LINE_TOKEN "you line-token"
 
 int sensor = 34;
 int water = 0; 
